@@ -2,8 +2,6 @@
 #include <stdbool.h>
 
 
-int32_t output;       // output
-
 
 int32_t bottom_left(int32_t input, int32_t upper, int32_t lower, int32_t* prevOutput)
 {
